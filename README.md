@@ -1,3 +1,5 @@
+[![Claude Code Repos Index](https://img.shields.io/badge/Claude%20Code%20Repos-Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # Perspective Finder
 
 A Claude Code workspace for identifying individuals who hold specific viewpoints within policy debates and topic areas. Surfaces voices that are difficult to discover through simple keyword searches by leveraging LLM knowledge of public figures, commentators, researchers, and activists.
@@ -94,3 +96,7 @@ Each `#` heading in a file is treated as a separate perspective and generates it
 ## Accuracy
 
 The workspace instructs Claude to flag uncertain social media handles as "Unverified" and to prefer shorter, accurate lists over fabricated ones. Always independently verify handles and affiliations before relying on them for research.
+
+---
+
+For more Claude Code projects, visit my [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
